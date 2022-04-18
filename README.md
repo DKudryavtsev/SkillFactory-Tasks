@@ -11,4 +11,5 @@ A repository for the [SkillFactory Data Science Pro courses](https://skillfactor
 ## Projects
 * [Project 1. HeadHunter Vacancies](https://github.com/DKudryavtsev/SkillFactory-Tasks/tree/main/Project_1-HeadHunterVacancies)
 * [Project 2. SQL](https://docs.google.com/document/d/1FteBms0UFoco8gaYCQrIMf9E_VTQlWECn58hL1jbnMM/edit?usp=sharing)
+* [Project 3. Booking Reviews](https://github.com/DKudryavtsev/SkillFactory-Tasks/tree/main/Project_3-BookingReviews)
 * To be continued ...
