@@ -7,6 +7,7 @@ A repository for the [SkillFactory Data Science Pro courses](https://skillfactor
 * [Task 2. Statistical tests](https://github.com/DKudryavtsev/SkillFactory-Tasks/tree/main/task_02-statistical_tests)
 * [Task 3. AB testing](https://github.com/DKudryavtsev/SkillFactory-Tasks/tree/main/task_02-statistical_tests)
 * [Task 4. Kaggle competition](https://www.kaggle.com/code/dkudryavtsev/lightautoml-solution-dk)
+* [Task 5. Hyperparameter optimization](https://github.com/DKudryavtsev/SkillFactory-Tasks/tree/main/task_05-hyperparameter_opt)
 
 
 ## Projects
