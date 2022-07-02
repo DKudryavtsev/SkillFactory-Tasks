@@ -9,9 +9,9 @@ A repository for the [SkillFactory Data Science Pro courses](https://skillfactor
 * [Task 4. Kaggle competition](https://www.kaggle.com/code/dkudryavtsev/lightautoml-solution-dk)
 * [Task 5. Hyperparameter optimization](https://github.com/DKudryavtsev/SkillFactory-Tasks/tree/main/task_05-hyperparameter_opt)
 
-
 ## Projects
 * [Project 1. HeadHunter Vacancies](https://github.com/DKudryavtsev/SkillFactory-Tasks/tree/main/Project_1-HeadHunterVacancies)
 * [Project 2. SQL](https://docs.google.com/document/d/1FteBms0UFoco8gaYCQrIMf9E_VTQlWECn58hL1jbnMM/edit?usp=sharing)
 * [Project 3. Booking Reviews](https://github.com/DKudryavtsev/SkillFactory-Tasks/tree/main/Project_3-BookingReviews)
+* [Project 4. Classification](https://github.com/DKudryavtsev/SkillFactory-Tasks/tree/main/Project_4-Classification)
 * To be continued ...
