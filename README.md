@@ -8,7 +8,6 @@ A repository for the [SkillFactory Data Science Pro courses](https://skillfactor
 * [Project 4. Classification](https://github.com/DKudryavtsev/SkillFactory-Tasks/tree/main/Project_4-Classification)
 * [Project 5. Regression](https://github.com/DKudryavtsev/SkillFactory-Tasks/tree/main/Project_5-Regression)
 * [Project 6. Customer Segmentation](https://github.com/DKudryavtsev/SkillFactory-Tasks/tree/main/Project_6-CustomerSegmentation)
-* To be continued ...
 
 ## Tasks
 * [Task 0. The game of guessing a number](https://github.com/DKudryavtsev/SkillFactory-Tasks/tree/main/task_00-guess_number)
@@ -19,3 +18,4 @@ A repository for the [SkillFactory Data Science Pro courses](https://skillfactor
 * [Task 5. Hyperparameter optimization](https://github.com/DKudryavtsev/SkillFactory-Tasks/tree/main/task_05-hyperparameter_opt)
 * [Task 6. Optimization](https://github.com/DKudryavtsev/SkillFactory-Tasks/tree/main/task_06-optimization)
 * [Task 7. Naive Bayes classification](https://github.com/DKudryavtsev/SkillFactory-Tasks/tree/main/task_07-naive_bayes_classif)
+* [Task 8. Time series](./task_08-time_series/)
