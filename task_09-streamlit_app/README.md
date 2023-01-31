@@ -26,4 +26,4 @@ Streamlit, LightFM, NMSLIB
  
 ### 4. Результаты
 
-Реализован визуальный прототип рекомендательной системы. Веб-приложение развернуто на Streamlit Cloud.
+Реализован визуальный прототип рекомендательной системы. Веб-приложение развернуто на Streamlit Cloud: https://dkudryavtsev-skillfactory-tasks-task-09-streamlit-appapp-bf6amo.streamlit.app/
