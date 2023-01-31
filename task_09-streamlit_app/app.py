@@ -10,7 +10,7 @@ import plotly.express as px
 
 
 @st.cache
-def read_files(folder_name='data'):
+def read_files(folder_name='task_09-streamlit_app/data'):
     """
     Функция для чтения файлов.
     Возвращает два DataFrame с рейтингами и характеристиками книг.
@@ -33,7 +33,7 @@ def make_mappers(books):
     return name_mapper, author_mapper
 
 
-def load_embeddings(file_name='item_embeddings.pkl'):
+def load_embeddings(file_name='task_09-streamlit_app/item_embeddings.pkl'):
     """
     Функция для загрузки векторных представлений.
     Возвращает прочитанные эмбеддинги книг и индекс (граф) 
@@ -80,7 +80,7 @@ def get_recomendation_df(ids, distances, name_mapper, author_mapper):
 
 
 #Загружаем данные
-ratings, books = read_files(folder_name='data')
+ratings, books = read_files(folder_name='task_09-streamlit_app/data')
 #Создаём словари для сопоставления id книг и их названий/авторов
 name_mapper, author_mapper = make_mappers(books)
 #Загружаем эмбеддинги и создаём индекс для поиска
