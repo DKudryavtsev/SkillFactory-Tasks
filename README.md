@@ -19,3 +19,4 @@ A repository for the [SkillFactory Data Science Pro courses](https://skillfactor
 * [Task 6. Optimization](https://github.com/DKudryavtsev/SkillFactory-Tasks/tree/main/task_06-optimization)
 * [Task 7. Naive Bayes classification](https://github.com/DKudryavtsev/SkillFactory-Tasks/tree/main/task_07-naive_bayes_classif)
 * [Task 8. Time series](./task_08-time_series/)
+* [Task 9. Streamlit application](./task_09-streamlit_app/)

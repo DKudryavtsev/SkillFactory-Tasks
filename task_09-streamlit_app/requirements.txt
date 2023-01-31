@@ -1,0 +1,4 @@
+streamlit==1.17.0
+pandas==1.4.2
+nmslib==2.1.1
+plotly==5.7.0
